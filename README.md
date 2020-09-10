@@ -1,6 +1,6 @@
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f)](https://vsCodeHero.com)
 
-[![codeSTACKr Theme](https://raw.githubusercontent.com/codestackr/codestackr-vscode-theme/master/images/theme.gif)](https://vsCodeHero.com)
+[![codeSTACKr Theme](https://raw.githubusercontent.com/codeSTACKr/codestackr-vscode-theme/master/images/theme.gif)](https://vsCodeHero.com)
 
 # codeSTACKr Theme for VS Code
 
@@ -21,7 +21,7 @@ Let me teach you everything there is to know about VS Code and make you a VS Cod
 
 The font that you see in the demo is a modified Fira Code font that I made called "STACKr Code".
 
-![STACKr Code Font Examples](./images/stackr-code-font.png)
+![STACKr Code Font Examples](https://raw.githubusercontent.com/codestackr/codestackr-vscode-theme/master/images/stackr-code-font.png)
 
 This font is exclusive to my VS Code SuperHero course. [Sign up now](https://vsCodeHero.com) to get access!
 
