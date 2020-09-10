@@ -1,6 +1,6 @@
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f)](https://vsCodeHero.com)
 
-[![codeSTACKr Theme](https://raw.githubusercontent.com/codeSTACKr/codestackr-vscode-theme/master/images/theme.gif)](https://vsCodeHero.com)
+[![codeSTACKr Theme Demo](https://raw.githubusercontent.com/codeSTACKr/codestackr-vscode-theme/master/images/theme-demo.gif)](https://vsCodeHero.com)
 
 # codeSTACKr Theme for VS Code
 
