@@ -42,4 +42,4 @@ For any issues or suggestions, please use [GitHub issues](https://github.com/cod
 
 Want to learn how to make your own theme?? Check out this video:
 
-[![How to make a VS Code theme](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![How to make a VS Code theme](https://img.youtube.com/vi/QCqWzb-9Sy8/0.jpg)](https://www.youtube.com/watch?v=QCqWzb-9Sy8)
