@@ -98,7 +98,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#25537a",
+        "foreground": "#577997",
         "fontStyle": "italic"
       }
     },
