@@ -6,9 +6,9 @@
   "author": {
     "name": "Jesse Hall"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
-    "vscode": "^1.47.0"
+    "vscode": "^1.46.0"
   },
   "repository": {
     "type": "git",
