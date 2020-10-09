@@ -15,3 +15,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.3
 
 - Added lastPinnedBorder colors
+
+## 0.0.4
+
+- Forgot quotes around the color 😂

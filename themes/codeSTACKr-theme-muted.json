@@ -402,7 +402,7 @@
     "editorGroupHeader.tabsBackground": "#0a1620",
     "tab.border": "#00000033",
     "tab.activeBorder": "#ffb59a",
-    "tab.lastPinnedBorder": #ffb59a,
+    "tab.lastPinnedBorder": "#ffb59a",
     "tab.inactiveBackground": "#0c1a25",
     "tab.activeModifiedBorder": "#ffb59a",
     "tab.inactiveModifiedBorder": "#993c1c",
