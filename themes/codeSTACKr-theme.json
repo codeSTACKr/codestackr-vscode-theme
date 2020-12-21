@@ -39,7 +39,7 @@
     },
     {
       "name": "Identifier",
-      "scope": "variable, support.variable, support.class, support.constant, meta.definition.variable entity.name.function",
+      "scope": "variable, support.variable, support.class, support.constant, meta.definition.variable, entity.name.function",
       "settings": {
         "foreground": "#746aff"
       }
@@ -126,7 +126,7 @@
     },
     {
       "name": "Function definition",
-      "scope": "meta.function entity.name.function",
+      "scope": "meta.function, entity.name.function",
       "settings": {
         "foreground": "#5eb7ee"
       }
