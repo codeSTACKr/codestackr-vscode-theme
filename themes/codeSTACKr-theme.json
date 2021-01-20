@@ -67,7 +67,7 @@
     },
     {
       "name": "Storage",
-      "scope": "storage.type, storage.modifier",
+      "scope": "storage.type, storage.modifier, keyword.operator.expression",
       "settings": {
         "foreground": "#FF652F"
       }
