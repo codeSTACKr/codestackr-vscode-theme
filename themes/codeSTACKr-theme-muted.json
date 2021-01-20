@@ -67,7 +67,7 @@
     },
     {
       "name": "Storage",
-      "scope": "storage.type, storage.modifier",
+      "scope": "storage.type, storage.modifier, keyword.operator.expression",
       "settings": {
         "foreground": "#ffb59a"
       }
@@ -84,14 +84,14 @@
       "name": "Type",
       "scope": "support.type",
       "settings": {
-        "foreground": "#bae0f8"
+        "foreground": "#ffca75"
       }
     },
     {
       "name": "Type",
       "scope": "entity.name.type, entity.other.inherited-class",
       "settings": {
-        "foreground": "#bae0f8"
+        "foreground": "#ffca75"
       }
     },
     {
@@ -106,7 +106,7 @@
       "name": "Class",
       "scope": "entity.name.type.class",
       "settings": {
-        "foreground": "#bae0f8",
+        "foreground": "#ffca75",
         "fontStyle": "underline"
       }
     },
