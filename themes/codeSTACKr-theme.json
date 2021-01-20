@@ -45,6 +45,13 @@
       }
     },
     {
+      "name": "Constant",
+      "scope": "variable.other.constant",
+      "settings": {
+        "foreground": "#ff5177"
+      }
+    },
+    {
       "name": "Keyword",
       "scope": "keyword, modifier, variable.language.this, support.type.object, constant.language",
       "settings": {
