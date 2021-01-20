@@ -84,14 +84,14 @@
       "name": "Type",
       "scope": "support.type",
       "settings": {
-        "foreground": "#5eb7ee"
+        "foreground": "#ff9d00"
       }
     },
     {
       "name": "Type",
       "scope": "entity.name.type, entity.other.inherited-class",
       "settings": {
-        "foreground": "#5eb7ee"
+        "foreground": "#ff9d00"
       }
     },
     {
@@ -106,7 +106,7 @@
       "name": "Class",
       "scope": "entity.name.type.class",
       "settings": {
-        "foreground": "#5eb7ee",
+        "foreground": "#ff9d00",
         "fontStyle": "underline"
       }
     },
