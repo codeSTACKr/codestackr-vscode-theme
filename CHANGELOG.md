@@ -27,7 +27,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.6
 
 - Add sash border colors
-- 
+
 ## 0.0.7
 
 - Updated arrow function color
+
+## 0.0.8
+
+- Changed some colors for TypeScript
+
+## 0.0.8
+
+- Changed some colors for TypeScript
