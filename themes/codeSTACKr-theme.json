@@ -45,6 +45,13 @@
       }
     },
     {
+      "name": "Constant",
+      "scope": "variable.other.constant",
+      "settings": {
+        "foreground": "#ff5177"
+      }
+    },
+    {
       "name": "Keyword",
       "scope": "keyword, modifier, variable.language.this, support.type.object, constant.language",
       "settings": {
@@ -67,7 +74,7 @@
     },
     {
       "name": "Storage",
-      "scope": "storage.type, storage.modifier",
+      "scope": "storage.type, storage.modifier, keyword.operator.expression",
       "settings": {
         "foreground": "#FF652F"
       }
@@ -84,14 +91,14 @@
       "name": "Type",
       "scope": "support.type",
       "settings": {
-        "foreground": "#5eb7ee"
+        "foreground": "#ff9d00"
       }
     },
     {
       "name": "Type",
       "scope": "entity.name.type, entity.other.inherited-class",
       "settings": {
-        "foreground": "#5eb7ee"
+        "foreground": "#ff9d00"
       }
     },
     {
@@ -106,7 +113,7 @@
       "name": "Class",
       "scope": "entity.name.type.class",
       "settings": {
-        "foreground": "#5eb7ee",
+        "foreground": "#ff9d00",
         "fontStyle": "underline"
       }
     },
