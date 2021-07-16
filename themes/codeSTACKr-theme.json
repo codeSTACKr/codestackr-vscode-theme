@@ -444,7 +444,6 @@
     "titleBar.activeBackground": "#070f15",
     "pickerGroup.border": "#FFFFFF1a",
     "debugToolBar.background": "#0c1a25",
-    "selection.background": "#FF652F",
     "sash.hoverBorder": "#ff652F"
   }
 }
