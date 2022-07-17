@@ -7,6 +7,9 @@
     "name": "Jesse Hall"
   },
   "version": "0.0.8",
+  "sponsor": {
+    "url": "https://github.com/sponsors/codeSTACKr"
+  },
   "engines": {
     "vscode": "^1.46.0"
   },
