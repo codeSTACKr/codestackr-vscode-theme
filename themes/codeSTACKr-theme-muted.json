@@ -1,6 +1,22 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "name": "codeSTACKr",
+  "semanticTokenColors": {
+    "function": {
+      "foreground": "#bae0f8"
+    },
+    "variable": "#ffa2b6",
+    "interface": {
+      "foreground": "#8df1c9",
+      "italic": true
+    },
+    "type": {
+      "foreground": "#8df1c9",
+      "italic": true
+    },
+    // This colours both object definiton properties, as well as references. If the property does not exist, it will be white\.
+    "property": "#9effff"
+  },
   "tokenColors": [
     {
       "name": "Global settings",
@@ -444,7 +460,6 @@
     "titleBar.activeBackground": "#070f15",
     "pickerGroup.border": "#FFFFFF1a",
     "debugToolBar.background": "#0c1a25",
-    "selection.background": "#ffb59a",
     "sash.hoverBorder": "#ffb59a"
   }
 }
